@@ -95,6 +95,7 @@ public class Order {
         int totalPrice = 0;
         for (OrderItem orderItem : orderItems) {
             totalPrice += orderItem.getTotalPrice();
+            System.out.println(totalPrice);
         }
         return totalPrice;
     }
