@@ -27,7 +27,7 @@
 
 ### 회원등록 및 조회
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76836188/230857236-c7a19c61-9436-4296-980a-e11ca5edb4ca.gif">
+  <img src="https://user-images.githubusercontent.com/76836188/230857570-84271103-6065-4375-a1d8-e97643f409c4.gif">
 </p>
 
 
@@ -39,5 +39,5 @@
 
 ### 주문 및 주문조회 및 주문취소
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76836188/230857570-84271103-6065-4375-a1d8-e97643f409c4.gif">
+  <img src="https://user-images.githubusercontent.com/76836188/230857236-c7a19c61-9436-4296-980a-e11ca5edb4ca.gif">
 </p>
